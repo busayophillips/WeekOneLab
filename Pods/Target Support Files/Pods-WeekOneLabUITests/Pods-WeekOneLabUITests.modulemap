@@ -1,0 +1,6 @@
+framework module Pods_WeekOneLabUITests {
+  umbrella header "Pods-WeekOneLabUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

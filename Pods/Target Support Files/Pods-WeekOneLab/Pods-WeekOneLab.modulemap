@@ -1,0 +1,6 @@
+framework module Pods_WeekOneLab {
+  umbrella header "Pods-WeekOneLab-umbrella.h"
+
+  export *
+  module * { export * }
+}
